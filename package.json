@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-artty",
+  "version": "1.0.0",
+  "description": "Vite plugin transformation for artty.js",
+  "main": "src/index.js",
+  "repository": "https://github.com/bronystylecrazy/vite-plugin-artty.git",
+  "author": "Mr.SIRAWIT PRATOOMSUWAN <48322519+bronystylecrazy@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
